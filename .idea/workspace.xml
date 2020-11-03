@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1917a81-2748-4c85-9d6f-894f354b0f63" name="Default Changelist" comment="" />
+    <list default="true" id="b1917a81-2748-4c85-9d6f-894f354b0f63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/account.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/account.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +21,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jmPURmdexNYJsGeaDIM2Kzficp" />
   <component name="ProjectViewState">
@@ -38,7 +46,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604406308797</updated>
       <workItem from="1604406310085" duration="2000" />
-      <workItem from="1604406321536" duration="7210000" />
+      <workItem from="1604406321536" duration="7363000" />
+      <workItem from="1604416914182" duration="2420000" />
     </task>
     <servers />
   </component>
@@ -50,21 +59,21 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1604414846898" />
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1604407571443">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1604416875265">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1604407571443" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1604407571443">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1604416875265" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1604416875264">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1604407571443" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1604407571443">
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1604416875264" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1604416875264">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1604407571443" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1604407571443">
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1604416875264" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1604416875264">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1604407571443" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1604416875264" />
   </component>
 </project>
