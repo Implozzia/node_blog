@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../work/slots-machine" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -38,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604406308797</updated>
       <workItem from="1604406310085" duration="2000" />
-      <workItem from="1604406321536" duration="5516000" />
+      <workItem from="1604406321536" duration="7210000" />
     </task>
     <servers />
   </component>
@@ -46,6 +46,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1604414846898">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1604414846898" />
     <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1604407571443">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
