@@ -11,6 +11,11 @@ const app = express(); //инициализация прилы
 
 const port = 3000;
 
+app.use(passport.initialize());
+app.user(passport.session());
+
+require('./config/passport')(passport);
+
 app.use(cors());
 
 app.use(bodyParser.json())

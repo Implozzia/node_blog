@@ -17,7 +17,7 @@ router.post('/reg', (req, res) => { //обрабатываем страничк�
          else {
              res.json({success: true, msg: "User has been added"})
          }
-     })
+     });
 });
 
 router.get('/auth', (req, res) => {

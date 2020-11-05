@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1917a81-2748-4c85-9d6f-894f354b0f63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/passport.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/account.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/account.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,7 @@
       <updated>1604406308797</updated>
       <workItem from="1604406310085" duration="2000" />
       <workItem from="1604406321536" duration="7363000" />
-      <workItem from="1604416914182" duration="2420000" />
+      <workItem from="1604416914182" duration="6959000" />
     </task>
     <servers />
   </component>
@@ -55,10 +54,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1604414846898">
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1604565945943">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1604414846898" />
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1604565945943" />
     <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1604416875265">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
